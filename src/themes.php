@@ -16,7 +16,7 @@ return [
         "excludeDaysLabel" => "#434d58" // tom neutro derivado (contraste suave)
     ],
     "dark" => [
-        "background" => "#151515",
+        "background" => "#fa0404",
         "border" => "#E4E2E2",
         "stroke" => "#E4E2E2",
         "ring" => "#FB8C00",
