@@ -3,17 +3,17 @@
 // mapping of theme colors given a theme name
 return [
     "default" => [
-        "background" => "#FFFEFE",
-        "border" => "#E4E2E2",
-        "stroke" => "#E4E2E2",
-        "ring" => "#FB8C00",
-        "fire" => "#FB8C00",
-        "currStreakNum" => "#151515",
-        "sideNums" => "#151515",
-        "currStreakLabel" => "#FB8C00",
-        "sideLabels" => "#151515",
-        "dates" => "#464646",
-        "excludeDaysLabel" => "#464646",
+        "background" => "#0b0b0d",      // fundo principal (color5)
+        "border" => "#6bb39b",          // borda (color4)
+        "stroke" => "#6bb39b",          // linhas do gráfico (color4)
+        "ring" => "#85e6c0",            // círculo principal da streak (color3)
+        "fire" => "#85e6c0",            // ícone de fogo (color3)
+        "currStreakNum" => "#f7f4e8",   // número da streak atual (color1)
+        "sideNums" => "#daf3ea",        // números laterais (color2)
+        "currStreakLabel" => "#6bb39b", // label da streak atual (color4)
+        "sideLabels" => "#85e6c0",      // labels laterais (color3)
+        "dates" => "#daf3ea",           // datas do calendário (color2)
+        "excludeDaysLabel" => "#434d58" // tom neutro derivado (contraste suave)
     ],
     "dark" => [
         "background" => "#151515",
