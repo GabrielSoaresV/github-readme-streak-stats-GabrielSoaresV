@@ -709,12 +709,12 @@
             "version": "11.0.5",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
+                "url": "https://github.com/GabrielSoaresV/php-code-coverage.git",
                 "reference": "19b6365ab8b59a64438c0c3f4241feeb480c9861"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/19b6365ab8b59a64438c0c3f4241feeb480c9861",
+                "url": "https://api.github.com/repos/GabrielSoaresV/php-code-coverage/zipball/19b6365ab8b59a64438c0c3f4241feeb480c9861",
                 "reference": "19b6365ab8b59a64438c0c3f4241feeb480c9861",
                 "shasum": ""
             },
@@ -763,20 +763,20 @@
                 }
             ],
             "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
-            "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
+            "homepage": "https://github.com/GabrielSoaresV/php-code-coverage",
             "keywords": [
                 "coverage",
                 "testing",
                 "xunit"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
-                "security": "https://github.com/sebastianbergmann/php-code-coverage/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/11.0.5"
+                "issues": "https://github.com/GabrielSoaresV/php-code-coverage/issues",
+                "security": "https://github.com/GabrielSoaresV/php-code-coverage/security/policy",
+                "source": "https://github.com/GabrielSoaresV/php-code-coverage/tree/11.0.5"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -787,12 +787,12 @@
             "version": "5.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-file-iterator.git",
+                "url": "https://github.com/GabrielSoaresV/php-file-iterator.git",
                 "reference": "6ed896bf50bbbfe4d504a33ed5886278c78e4a26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/6ed896bf50bbbfe4d504a33ed5886278c78e4a26",
+                "url": "https://api.github.com/repos/GabrielSoaresV/php-file-iterator/zipball/6ed896bf50bbbfe4d504a33ed5886278c78e4a26",
                 "reference": "6ed896bf50bbbfe4d504a33ed5886278c78e4a26",
                 "shasum": ""
             },
@@ -825,19 +825,19 @@
                 }
             ],
             "description": "FilterIterator implementation that filters files based on a list of suffixes.",
-            "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
+            "homepage": "https://github.com/GabrielSoaresV/php-file-iterator/",
             "keywords": [
                 "filesystem",
                 "iterator"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/php-file-iterator/issues",
-                "security": "https://github.com/sebastianbergmann/php-file-iterator/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-file-iterator/tree/5.0.1"
+                "issues": "https://github.com/GabrielSoaresV/php-file-iterator/issues",
+                "security": "https://github.com/GabrielSoaresV/php-file-iterator/security/policy",
+                "source": "https://github.com/GabrielSoaresV/php-file-iterator/tree/5.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -848,12 +848,12 @@
             "version": "5.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-invoker.git",
+                "url": "https://github.com/GabrielSoaresV/php-invoker.git",
                 "reference": "c1ca3814734c07492b3d4c5f794f4b0995333da2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-invoker/zipball/c1ca3814734c07492b3d4c5f794f4b0995333da2",
+                "url": "https://api.github.com/repos/GabrielSoaresV/php-invoker/zipball/c1ca3814734c07492b3d4c5f794f4b0995333da2",
                 "reference": "c1ca3814734c07492b3d4c5f794f4b0995333da2",
                 "shasum": ""
             },
@@ -890,18 +890,18 @@
                 }
             ],
             "description": "Invoke callables with a timeout",
-            "homepage": "https://github.com/sebastianbergmann/php-invoker/",
+            "homepage": "https://github.com/GabrielSoaresV/php-invoker/",
             "keywords": [
                 "process"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/php-invoker/issues",
-                "security": "https://github.com/sebastianbergmann/php-invoker/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-invoker/tree/5.0.1"
+                "issues": "https://github.com/GabrielSoaresV/php-invoker/issues",
+                "security": "https://github.com/GabrielSoaresV/php-invoker/security/policy",
+                "source": "https://github.com/GabrielSoaresV/php-invoker/tree/5.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -912,12 +912,12 @@
             "version": "4.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-text-template.git",
+                "url": "https://github.com/GabrielSoaresV/php-text-template.git",
                 "reference": "3e0404dc6b300e6bf56415467ebcb3fe4f33e964"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-text-template/zipball/3e0404dc6b300e6bf56415467ebcb3fe4f33e964",
+                "url": "https://api.github.com/repos/GabrielSoaresV/php-text-template/zipball/3e0404dc6b300e6bf56415467ebcb3fe4f33e964",
                 "reference": "3e0404dc6b300e6bf56415467ebcb3fe4f33e964",
                 "shasum": ""
             },
@@ -950,18 +950,18 @@
                 }
             ],
             "description": "Simple template engine.",
-            "homepage": "https://github.com/sebastianbergmann/php-text-template/",
+            "homepage": "https://github.com/GabrielSoaresV/php-text-template/",
             "keywords": [
                 "template"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/php-text-template/issues",
-                "security": "https://github.com/sebastianbergmann/php-text-template/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-text-template/tree/4.0.1"
+                "issues": "https://github.com/GabrielSoaresV/php-text-template/issues",
+                "security": "https://github.com/GabrielSoaresV/php-text-template/security/policy",
+                "source": "https://github.com/GabrielSoaresV/php-text-template/tree/4.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -972,12 +972,12 @@
             "version": "7.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-timer.git",
+                "url": "https://github.com/GabrielSoaresV/php-timer.git",
                 "reference": "3b415def83fbcb41f991d9ebf16ae4ad8b7837b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/3b415def83fbcb41f991d9ebf16ae4ad8b7837b3",
+                "url": "https://api.github.com/repos/GabrielSoaresV/php-timer/zipball/3b415def83fbcb41f991d9ebf16ae4ad8b7837b3",
                 "reference": "3b415def83fbcb41f991d9ebf16ae4ad8b7837b3",
                 "shasum": ""
             },
@@ -1010,18 +1010,18 @@
                 }
             ],
             "description": "Utility class for timing",
-            "homepage": "https://github.com/sebastianbergmann/php-timer/",
+            "homepage": "https://github.com/GabrielSoaresV/php-timer/",
             "keywords": [
                 "timer"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/php-timer/issues",
-                "security": "https://github.com/sebastianbergmann/php-timer/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-timer/tree/7.0.1"
+                "issues": "https://github.com/GabrielSoaresV/php-timer/issues",
+                "security": "https://github.com/GabrielSoaresV/php-timer/security/policy",
+                "source": "https://github.com/GabrielSoaresV/php-timer/tree/7.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1032,12 +1032,12 @@
             "version": "11.3.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "url": "https://github.com/GabrielSoaresV/phpunit.git",
                 "reference": "fe179875ef0c14e90b75617002767eae0a742641"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/fe179875ef0c14e90b75617002767eae0a742641",
+                "url": "https://api.github.com/repos/GabrielSoaresV/phpunit/zipball/fe179875ef0c14e90b75617002767eae0a742641",
                 "reference": "fe179875ef0c14e90b75617002767eae0a742641",
                 "shasum": ""
             },
@@ -1107,9 +1107,9 @@
                 "xunit"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/phpunit/issues",
-                "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.3.1"
+                "issues": "https://github.com/GabrielSoaresV/phpunit/issues",
+                "security": "https://github.com/GabrielSoaresV/phpunit/security/policy",
+                "source": "https://github.com/GabrielSoaresV/phpunit/tree/11.3.1"
             },
             "funding": [
                 {
@@ -1117,7 +1117,7 @@
                     "type": "custom"
                 },
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 },
                 {
@@ -1132,12 +1132,12 @@
             "version": "3.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/cli-parser.git",
+                "url": "https://github.com/GabrielSoaresV/cli-parser.git",
                 "reference": "15c5dd40dc4f38794d383bb95465193f5e0ae180"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/cli-parser/zipball/15c5dd40dc4f38794d383bb95465193f5e0ae180",
+                "url": "https://api.github.com/repos/GabrielSoaresV/cli-parser/zipball/15c5dd40dc4f38794d383bb95465193f5e0ae180",
                 "reference": "15c5dd40dc4f38794d383bb95465193f5e0ae180",
                 "shasum": ""
             },
@@ -1170,15 +1170,15 @@
                 }
             ],
             "description": "Library for parsing CLI options",
-            "homepage": "https://github.com/sebastianbergmann/cli-parser",
+            "homepage": "https://github.com/GabrielSoaresV/cli-parser",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/cli-parser/issues",
-                "security": "https://github.com/sebastianbergmann/cli-parser/security/policy",
-                "source": "https://github.com/sebastianbergmann/cli-parser/tree/3.0.2"
+                "issues": "https://github.com/GabrielSoaresV/cli-parser/issues",
+                "security": "https://github.com/GabrielSoaresV/cli-parser/security/policy",
+                "source": "https://github.com/GabrielSoaresV/cli-parser/tree/3.0.2"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1189,12 +1189,12 @@
             "version": "3.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/code-unit.git",
+                "url": "https://github.com/GabrielSoaresV/code-unit.git",
                 "reference": "6bb7d09d6623567178cf54126afa9c2310114268"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/code-unit/zipball/6bb7d09d6623567178cf54126afa9c2310114268",
+                "url": "https://api.github.com/repos/GabrielSoaresV/code-unit/zipball/6bb7d09d6623567178cf54126afa9c2310114268",
                 "reference": "6bb7d09d6623567178cf54126afa9c2310114268",
                 "shasum": ""
             },
@@ -1227,15 +1227,15 @@
                 }
             ],
             "description": "Collection of value objects that represent the PHP code units",
-            "homepage": "https://github.com/sebastianbergmann/code-unit",
+            "homepage": "https://github.com/GabrielSoaresV/code-unit",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/code-unit/issues",
-                "security": "https://github.com/sebastianbergmann/code-unit/security/policy",
-                "source": "https://github.com/sebastianbergmann/code-unit/tree/3.0.1"
+                "issues": "https://github.com/GabrielSoaresV/code-unit/issues",
+                "security": "https://github.com/GabrielSoaresV/code-unit/security/policy",
+                "source": "https://github.com/GabrielSoaresV/code-unit/tree/3.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1246,12 +1246,12 @@
             "version": "4.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/code-unit-reverse-lookup.git",
+                "url": "https://github.com/GabrielSoaresV/code-unit-reverse-lookup.git",
                 "reference": "183a9b2632194febd219bb9246eee421dad8d45e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/code-unit-reverse-lookup/zipball/183a9b2632194febd219bb9246eee421dad8d45e",
+                "url": "https://api.github.com/repos/GabrielSoaresV/code-unit-reverse-lookup/zipball/183a9b2632194febd219bb9246eee421dad8d45e",
                 "reference": "183a9b2632194febd219bb9246eee421dad8d45e",
                 "shasum": ""
             },
@@ -1283,15 +1283,15 @@
                 }
             ],
             "description": "Looks up which function or method a line of code belongs to",
-            "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+            "homepage": "https://github.com/GabrielSoaresV/code-unit-reverse-lookup/",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/issues",
-                "security": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/security/policy",
-                "source": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/tree/4.0.1"
+                "issues": "https://github.com/GabrielSoaresV/code-unit-reverse-lookup/issues",
+                "security": "https://github.com/GabrielSoaresV/code-unit-reverse-lookup/security/policy",
+                "source": "https://github.com/GabrielSoaresV/code-unit-reverse-lookup/tree/4.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1302,12 +1302,12 @@
             "version": "6.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/comparator.git",
+                "url": "https://github.com/GabrielSoaresV/comparator.git",
                 "reference": "450d8f237bd611c45b5acf0733ce43e6bb280f81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/450d8f237bd611c45b5acf0733ce43e6bb280f81",
+                "url": "https://api.github.com/repos/GabrielSoaresV/comparator/zipball/450d8f237bd611c45b5acf0733ce43e6bb280f81",
                 "reference": "450d8f237bd611c45b5acf0733ce43e6bb280f81",
                 "shasum": ""
             },
@@ -1355,20 +1355,20 @@
                 }
             ],
             "description": "Provides the functionality to compare PHP values for equality",
-            "homepage": "https://github.com/sebastianbergmann/comparator",
+            "homepage": "https://github.com/GabrielSoaresV/comparator",
             "keywords": [
                 "comparator",
                 "compare",
                 "equality"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/comparator/issues",
-                "security": "https://github.com/sebastianbergmann/comparator/security/policy",
-                "source": "https://github.com/sebastianbergmann/comparator/tree/6.0.2"
+                "issues": "https://github.com/GabrielSoaresV/comparator/issues",
+                "security": "https://github.com/GabrielSoaresV/comparator/security/policy",
+                "source": "https://github.com/GabrielSoaresV/comparator/tree/6.0.2"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1379,12 +1379,12 @@
             "version": "4.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/complexity.git",
+                "url": "https://github.com/GabrielSoaresV/complexity.git",
                 "reference": "ee41d384ab1906c68852636b6de493846e13e5a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/complexity/zipball/ee41d384ab1906c68852636b6de493846e13e5a0",
+                "url": "https://api.github.com/repos/GabrielSoaresV/complexity/zipball/ee41d384ab1906c68852636b6de493846e13e5a0",
                 "reference": "ee41d384ab1906c68852636b6de493846e13e5a0",
                 "shasum": ""
             },
@@ -1418,15 +1418,15 @@
                 }
             ],
             "description": "Library for calculating the complexity of PHP code units",
-            "homepage": "https://github.com/sebastianbergmann/complexity",
+            "homepage": "https://github.com/GabrielSoaresV/complexity",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/complexity/issues",
-                "security": "https://github.com/sebastianbergmann/complexity/security/policy",
-                "source": "https://github.com/sebastianbergmann/complexity/tree/4.0.1"
+                "issues": "https://github.com/GabrielSoaresV/complexity/issues",
+                "security": "https://github.com/GabrielSoaresV/complexity/security/policy",
+                "source": "https://github.com/GabrielSoaresV/complexity/tree/4.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1437,12 +1437,12 @@
             "version": "6.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/diff.git",
+                "url": "https://github.com/GabrielSoaresV/diff.git",
                 "reference": "b4ccd857127db5d41a5b676f24b51371d76d8544"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/b4ccd857127db5d41a5b676f24b51371d76d8544",
+                "url": "https://api.github.com/repos/GabrielSoaresV/diff/zipball/b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "reference": "b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "shasum": ""
             },
@@ -1479,7 +1479,7 @@
                 }
             ],
             "description": "Diff implementation",
-            "homepage": "https://github.com/sebastianbergmann/diff",
+            "homepage": "https://github.com/GabrielSoaresV/diff",
             "keywords": [
                 "diff",
                 "udiff",
@@ -1487,13 +1487,13 @@
                 "unified diff"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/diff/issues",
-                "security": "https://github.com/sebastianbergmann/diff/security/policy",
-                "source": "https://github.com/sebastianbergmann/diff/tree/6.0.2"
+                "issues": "https://github.com/GabrielSoaresV/diff/issues",
+                "security": "https://github.com/GabrielSoaresV/diff/security/policy",
+                "source": "https://github.com/GabrielSoaresV/diff/tree/6.0.2"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1504,12 +1504,12 @@
             "version": "7.2.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/environment.git",
+                "url": "https://github.com/GabrielSoaresV/environment.git",
                 "reference": "855f3ae0ab316bbafe1ba4e16e9f3c078d24a0c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/855f3ae0ab316bbafe1ba4e16e9f3c078d24a0c5",
+                "url": "https://api.github.com/repos/GabrielSoaresV/environment/zipball/855f3ae0ab316bbafe1ba4e16e9f3c078d24a0c5",
                 "reference": "855f3ae0ab316bbafe1ba4e16e9f3c078d24a0c5",
                 "shasum": ""
             },
@@ -1544,20 +1544,20 @@
                 }
             ],
             "description": "Provides functionality to handle HHVM/PHP environments",
-            "homepage": "https://github.com/sebastianbergmann/environment",
+            "homepage": "https://github.com/GabrielSoaresV/environment",
             "keywords": [
                 "Xdebug",
                 "environment",
                 "hhvm"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/environment/issues",
-                "security": "https://github.com/sebastianbergmann/environment/security/policy",
-                "source": "https://github.com/sebastianbergmann/environment/tree/7.2.0"
+                "issues": "https://github.com/GabrielSoaresV/environment/issues",
+                "security": "https://github.com/GabrielSoaresV/environment/security/policy",
+                "source": "https://github.com/GabrielSoaresV/environment/tree/7.2.0"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1568,12 +1568,12 @@
             "version": "6.1.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/exporter.git",
+                "url": "https://github.com/GabrielSoaresV/exporter.git",
                 "reference": "c414673eee9a8f9d51bbf8d61fc9e3ef1e85b20e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/c414673eee9a8f9d51bbf8d61fc9e3ef1e85b20e",
+                "url": "https://api.github.com/repos/GabrielSoaresV/exporter/zipball/c414673eee9a8f9d51bbf8d61fc9e3ef1e85b20e",
                 "reference": "c414673eee9a8f9d51bbf8d61fc9e3ef1e85b20e",
                 "shasum": ""
             },
@@ -1623,19 +1623,19 @@
                 }
             ],
             "description": "Provides the functionality to export PHP variables for visualization",
-            "homepage": "https://www.github.com/sebastianbergmann/exporter",
+            "homepage": "https://www.github.com/GabrielSoaresV/exporter",
             "keywords": [
                 "export",
                 "exporter"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/exporter/issues",
-                "security": "https://github.com/sebastianbergmann/exporter/security/policy",
-                "source": "https://github.com/sebastianbergmann/exporter/tree/6.1.3"
+                "issues": "https://github.com/GabrielSoaresV/exporter/issues",
+                "security": "https://github.com/GabrielSoaresV/exporter/security/policy",
+                "source": "https://github.com/GabrielSoaresV/exporter/tree/6.1.3"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1646,12 +1646,12 @@
             "version": "7.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/global-state.git",
+                "url": "https://github.com/GabrielSoaresV/global-state.git",
                 "reference": "3be331570a721f9a4b5917f4209773de17f747d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/global-state/zipball/3be331570a721f9a4b5917f4209773de17f747d7",
+                "url": "https://api.github.com/repos/GabrielSoaresV/global-state/zipball/3be331570a721f9a4b5917f4209773de17f747d7",
                 "reference": "3be331570a721f9a4b5917f4209773de17f747d7",
                 "shasum": ""
             },
@@ -1686,18 +1686,18 @@
                 }
             ],
             "description": "Snapshotting of global state",
-            "homepage": "https://www.github.com/sebastianbergmann/global-state",
+            "homepage": "https://www.github.com/GabrielSoaresV/global-state",
             "keywords": [
                 "global state"
             ],
             "support": {
-                "issues": "https://github.com/sebastianbergmann/global-state/issues",
-                "security": "https://github.com/sebastianbergmann/global-state/security/policy",
-                "source": "https://github.com/sebastianbergmann/global-state/tree/7.0.2"
+                "issues": "https://github.com/GabrielSoaresV/global-state/issues",
+                "security": "https://github.com/GabrielSoaresV/global-state/security/policy",
+                "source": "https://github.com/GabrielSoaresV/global-state/tree/7.0.2"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1708,12 +1708,12 @@
             "version": "3.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/lines-of-code.git",
+                "url": "https://github.com/GabrielSoaresV/lines-of-code.git",
                 "reference": "d36ad0d782e5756913e42ad87cb2890f4ffe467a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/lines-of-code/zipball/d36ad0d782e5756913e42ad87cb2890f4ffe467a",
+                "url": "https://api.github.com/repos/GabrielSoaresV/lines-of-code/zipball/d36ad0d782e5756913e42ad87cb2890f4ffe467a",
                 "reference": "d36ad0d782e5756913e42ad87cb2890f4ffe467a",
                 "shasum": ""
             },
@@ -1747,15 +1747,15 @@
                 }
             ],
             "description": "Library for counting the lines of code in PHP source code",
-            "homepage": "https://github.com/sebastianbergmann/lines-of-code",
+            "homepage": "https://github.com/GabrielSoaresV/lines-of-code",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/lines-of-code/issues",
-                "security": "https://github.com/sebastianbergmann/lines-of-code/security/policy",
-                "source": "https://github.com/sebastianbergmann/lines-of-code/tree/3.0.1"
+                "issues": "https://github.com/GabrielSoaresV/lines-of-code/issues",
+                "security": "https://github.com/GabrielSoaresV/lines-of-code/security/policy",
+                "source": "https://github.com/GabrielSoaresV/lines-of-code/tree/3.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1766,12 +1766,12 @@
             "version": "6.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/object-enumerator.git",
+                "url": "https://github.com/GabrielSoaresV/object-enumerator.git",
                 "reference": "f5b498e631a74204185071eb41f33f38d64608aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/f5b498e631a74204185071eb41f33f38d64608aa",
+                "url": "https://api.github.com/repos/GabrielSoaresV/object-enumerator/zipball/f5b498e631a74204185071eb41f33f38d64608aa",
                 "reference": "f5b498e631a74204185071eb41f33f38d64608aa",
                 "shasum": ""
             },
@@ -1805,15 +1805,15 @@
                 }
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
-            "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+            "homepage": "https://github.com/GabrielSoaresV/object-enumerator/",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/object-enumerator/issues",
-                "security": "https://github.com/sebastianbergmann/object-enumerator/security/policy",
-                "source": "https://github.com/sebastianbergmann/object-enumerator/tree/6.0.1"
+                "issues": "https://github.com/GabrielSoaresV/object-enumerator/issues",
+                "security": "https://github.com/GabrielSoaresV/object-enumerator/security/policy",
+                "source": "https://github.com/GabrielSoaresV/object-enumerator/tree/6.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1824,12 +1824,12 @@
             "version": "4.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/object-reflector.git",
+                "url": "https://github.com/GabrielSoaresV/object-reflector.git",
                 "reference": "6e1a43b411b2ad34146dee7524cb13a068bb35f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/object-reflector/zipball/6e1a43b411b2ad34146dee7524cb13a068bb35f9",
+                "url": "https://api.github.com/repos/GabrielSoaresV/object-reflector/zipball/6e1a43b411b2ad34146dee7524cb13a068bb35f9",
                 "reference": "6e1a43b411b2ad34146dee7524cb13a068bb35f9",
                 "shasum": ""
             },
@@ -1861,15 +1861,15 @@
                 }
             ],
             "description": "Allows reflection of object attributes, including inherited and non-public ones",
-            "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+            "homepage": "https://github.com/GabrielSoaresV/object-reflector/",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/object-reflector/issues",
-                "security": "https://github.com/sebastianbergmann/object-reflector/security/policy",
-                "source": "https://github.com/sebastianbergmann/object-reflector/tree/4.0.1"
+                "issues": "https://github.com/GabrielSoaresV/object-reflector/issues",
+                "security": "https://github.com/GabrielSoaresV/object-reflector/security/policy",
+                "source": "https://github.com/GabrielSoaresV/object-reflector/tree/4.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1880,12 +1880,12 @@
             "version": "6.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/recursion-context.git",
+                "url": "https://github.com/GabrielSoaresV/recursion-context.git",
                 "reference": "694d156164372abbd149a4b85ccda2e4670c0e16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/recursion-context/zipball/694d156164372abbd149a4b85ccda2e4670c0e16",
+                "url": "https://api.github.com/repos/GabrielSoaresV/recursion-context/zipball/694d156164372abbd149a4b85ccda2e4670c0e16",
                 "reference": "694d156164372abbd149a4b85ccda2e4670c0e16",
                 "shasum": ""
             },
@@ -1925,15 +1925,15 @@
                 }
             ],
             "description": "Provides functionality to recursively process PHP variables",
-            "homepage": "https://github.com/sebastianbergmann/recursion-context",
+            "homepage": "https://github.com/GabrielSoaresV/recursion-context",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/recursion-context/issues",
-                "security": "https://github.com/sebastianbergmann/recursion-context/security/policy",
-                "source": "https://github.com/sebastianbergmann/recursion-context/tree/6.0.2"
+                "issues": "https://github.com/GabrielSoaresV/recursion-context/issues",
+                "security": "https://github.com/GabrielSoaresV/recursion-context/security/policy",
+                "source": "https://github.com/GabrielSoaresV/recursion-context/tree/6.0.2"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -1944,12 +1944,12 @@
             "version": "5.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/type.git",
+                "url": "https://github.com/GabrielSoaresV/type.git",
                 "reference": "fb6a6566f9589e86661291d13eba708cce5eb4aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/type/zipball/fb6a6566f9589e86661291d13eba708cce5eb4aa",
+                "url": "https://api.github.com/repos/GabrielSoaresV/type/zipball/fb6a6566f9589e86661291d13eba708cce5eb4aa",
                 "reference": "fb6a6566f9589e86661291d13eba708cce5eb4aa",
                 "shasum": ""
             },
@@ -1982,15 +1982,15 @@
                 }
             ],
             "description": "Collection of value objects that represent the types of the PHP type system",
-            "homepage": "https://github.com/sebastianbergmann/type",
+            "homepage": "https://github.com/GabrielSoaresV/type",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/type/issues",
-                "security": "https://github.com/sebastianbergmann/type/security/policy",
-                "source": "https://github.com/sebastianbergmann/type/tree/5.0.1"
+                "issues": "https://github.com/GabrielSoaresV/type/issues",
+                "security": "https://github.com/GabrielSoaresV/type/security/policy",
+                "source": "https://github.com/GabrielSoaresV/type/tree/5.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
@@ -2001,12 +2001,12 @@
             "version": "5.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sebastianbergmann/version.git",
+                "url": "https://github.com/GabrielSoaresV/version.git",
                 "reference": "45c9debb7d039ce9b97de2f749c2cf5832a06ac4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/version/zipball/45c9debb7d039ce9b97de2f749c2cf5832a06ac4",
+                "url": "https://api.github.com/repos/GabrielSoaresV/version/zipball/45c9debb7d039ce9b97de2f749c2cf5832a06ac4",
                 "reference": "45c9debb7d039ce9b97de2f749c2cf5832a06ac4",
                 "shasum": ""
             },
@@ -2036,15 +2036,15 @@
                 }
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
-            "homepage": "https://github.com/sebastianbergmann/version",
+            "homepage": "https://github.com/GabrielSoaresV/version",
             "support": {
-                "issues": "https://github.com/sebastianbergmann/version/issues",
-                "security": "https://github.com/sebastianbergmann/version/security/policy",
-                "source": "https://github.com/sebastianbergmann/version/tree/5.0.1"
+                "issues": "https://github.com/GabrielSoaresV/version/issues",
+                "security": "https://github.com/GabrielSoaresV/version/security/policy",
+                "source": "https://github.com/GabrielSoaresV/version/tree/5.0.1"
             },
             "funding": [
                 {
-                    "url": "https://github.com/sebastianbergmann",
+                    "url": "https://github.com/GabrielSoaresV",
                     "type": "github"
                 }
             ],
